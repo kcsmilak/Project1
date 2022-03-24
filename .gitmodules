@@ -1,0 +1,4 @@
+[submodule "Library1"]
+	path = Library1
+	url = https://github.com/kcsmilak/Library1
+	branch = main
